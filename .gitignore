@@ -1,0 +1,7 @@
+notatki.txt
+notatki.txt
+log/
+build/
+*.pdf
+*.tmp
+*.log
